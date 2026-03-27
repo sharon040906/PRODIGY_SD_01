@@ -21,8 +21,8 @@ A simple Python project that converts temperature values between Celsius, Fahren
 ## 📷 Sample Output
 Enter temperature: 25  
 Convert to (C/F/K): F  
-Output: 77°F
-demo pic: demo1.png
+Output: 77°C
+output:"C:\Users\malle\OneDrive\Desktop\SD1\temp-demo1.png"
 
 
 ## 💡 Learning Outcomes
