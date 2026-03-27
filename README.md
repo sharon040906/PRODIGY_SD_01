@@ -14,8 +14,7 @@ A simple Python project that converts temperature values between Celsius, Fahren
 
 ## 📌 How to Run
 1. Install Python
-2. Run the script:
-   python temp_converter.py
+2. Run the script
 3. Enter the temperature and unit when prompted
 
 ## Sample Output
